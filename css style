@@ -1,0 +1,10 @@
+<style>
+    h1 {
+        color: rgb(255, 230, 0);
+        font-size: 40px;
+    }
+    body  {
+    background-image: https://www.google.com/search?q=ranu+kumbolo&sca_esv=41dd51f9f2f48114&rlz=1C1GCEA_enID1161ID1161&udm=2&biw=1536&bih=695&sxsrf=AE3TifMxlMCoCfEWOtEVptaFDv0QNuxrsw%3A1764052086693&ei=dkwlaYmHKpiZ4-EPz5-Z6Q4&oq=ranu+ku&gs_lp=Egtnd3Mtd2l6LWltZyIHcmFudSBrdSoCCAAyCBAAGIAEGLEDMggQABiABBixAzIFEAAYgAQyCBAAGIAEGLEDMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESPEuULIPWOkicAJ4AJABAZgBcKABigWqAQQxMS4xuAEByAEA-AEBmAIKoAL8A6gCCsICBhAAGAcYHsICCxAAGIAEGLEDGIMBwgIHECMYyQIYJ8ICEBAAGIAEGIoFGEMYsQMYgwHCAg4QABiABBiKBRixAxiDAcICChAjGMkCGOoCGCfCAgoQABiABBiKBRhDmAMEiAYBkgcDOS4xoAfiQ7IHAzcuMbgH7APCBwcwLjEuOC4xyAcq&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLW5zUkxQeEwyTlI3ekVNMg5uc1JMUHhMMk5SN3pFTToOOURfWE9mQnhaSnUyN00gBCocCgZtb3NhaWMSEGUtbnNSTFB4TDJOUjd6RU0YADABGAcglOnA2QcwAkoKCAIQAhgCIAIoAg("gambar.jpg");
+    background-size: cover;
+}
+</style>
